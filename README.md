@@ -2,6 +2,6 @@ This is the code associated with my Intro to Flask video series. In each folder,
 
 You can watch the series on both Enkato and YouTube.
 
-Enkato: 
+Enkato: http://www.enkato.com/s/oSMakaBdu2neiEVHHaqZiY
 
 YouTube: https://www.youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV
